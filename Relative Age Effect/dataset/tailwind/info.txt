@@ -1,0 +1,30 @@
+## About Tailwind
+
+From wikipedia :-
+In track and field, wind assistance is the benefit that an athlete receives during a race or event as registered by a wind gauge. Wind is one of many forms 
+of weather that can affect sport.
+Due to a tailwind helping to enhance the speed of the athlete in events like certain sprint races (100 and 200 metres), 100/110 metres hurdles, the triple 
+jump and the long jump, there is a limit to how much assisting wind the athlete may perform under if the performance is to establish a record. 
+If a tail wind exceeds 2 metres per second (3.9 kn) the result cannot be registered as a record on any level.[1] However, the results within that competition 
+still are valid because all athletes in a race would get equal assistance, and in field events it is just the luck of the circumstance at the moment of the 
+attempt. The wind assistance maximums are only in regard to the validation of a record.
+
+Obadele Thompson ran the 100 metres in 9.69 seconds in April 1996 in El Paso. The result would have been a new world record, had it not been for the tail wind 
+of >5.0 m/s.[4] This was then bettered by Tyson Gay in June 2008, when Gay ran a time of 9.68 seconds with the help of a +4.1 m/s tailwind.[5] 
+That mark was surpassed when Usain Bolt set the current world record the following year, 9.58 with a legal +0.9 tailwind.
+
+## Flo Jo's Controversy
+This contains the summary :- https://www.brunel.ac.uk/~spstnpl/Publications/IAAFReport(Linthorne).pdf and it summarises as :-  "An examination of the performances recorded 
+at the 1988 U.S. Olympic Trials in Indianapolis
+shows that Florence Griffith-Joyner's 100-m world record of 10.49 seconds was assisted by a wind that was well in excess of the legal limit of +2.0 m/s."
+However, the IAAF has not yet corrected the world record list.  Nine years after the fact, an IAAF study determined, based on a detailed analysis of all heats and qualifiers, 
+that the wind gauge had malfunctioned, and 
+the correct wind speed for her race was actually +5.0, which would render Flo-Jo’s record illegal. Yet the IAAF let it stand. 
+
+## Usain Bolt's record and wind 
+reference :- https://speedendurance.com/2013/05/12/windy-records-in-track-and-field/
+Several researchers have looked into the advantage gained by tailwind. The majority of studies concern the most popular event in track athletics, the 100m dash.
+It has been estimated that an assisting wind of 2m/s improves a performance by approximately 0.10s compared to that achieved in still conditions. In [1], it is 
+calculated that if Usain Bolt had been assisted by the maximum legal wind of 2m/s rather that the 0.9m/s registered on the day, he would have clocked a world 
+record of 9.53s, 0.05s under his actual time. 
+We can use this information to quantify the effect of wind on the 100m event. A maximum legal wind of 2m/s will improve performances by roughly 0.1/10 = 1%.

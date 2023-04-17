@@ -1,0 +1,653 @@
+,Unnamed: 0,Player,Team,born,Height,Position,Nationality
+0,0,Ethan Nwaneri,Arsenal FC,21/03/2007,165 cm,MF,England
+1,1,Ishé Samuels-Smith,Everton FC,05/06/2006,190 cm,DF,England
+2,2,Zach Abbott,Nottingham Forest,13/05/2006,???,DF,England
+3,3,Lewis Miley,Newcastle United,01/05/2006,???,MF,England
+4,4,Archie Gray,Leeds United,12/03/2006,183 cm,MF,Scotland
+5,5,Lewis Orford,West Ham United,18/02/2006,???,MF,England
+6,6,Kadan Young,Aston Villa,19/01/2006,???,MF,England
+7,7,Oliver Scarles,West Ham United,12/12/2005,???,MF,England
+8,8,Ben Doak,Liverpool FC,11/11/2005,???,FW,Scotland
+9,9,Kami Doyle,Southampton FC,01/08/2005,???,MF,England
+10,10,James Debayo,Leeds United,11/07/2005,???,DF,England
+11,11,Daniel Adu-Adjei,AFC Bournemouth,21/06/2005,???,FW,England
+12,12,David Ozoh,Crystal Palace,01/06/2005,189 cm,MF,England
+13,13,Amario Cozier-Duberry,Arsenal FC,29/05/2005,171 cm,MF,England
+14,14,Josh Feeney,Aston Villa,06/05/2005,193 cm,DF,England
+15,15,Will Alves,Leicester City,04/05/2005,???,MF,England
+16,16,Kobbie Mainoo,Manchester United,19/04/2005,175 cm,MF,England
+17,17,Jack Hinshelwood,Brighton & Hove Albion,11/04/2005,???,MF,England
+18,18,Luke Harris,Fulham FC,03/04/2005,177 cm,MF,England
+19,19,Dominic Ballard,Southampton FC,01/04/2005,???,FW,England
+20,20,Michael Dacosta Gonzalez,AFC Bournemouth,05/03/2005,???,MF,Spain
+21,21,Tyler Fredricson,Manchester United,23/02/2005,???,DF,England
+22,22,Nathan Fraser,Wolverhampton Wanderers,22/02/2005,???,FW,England
+23,23,Bobby Clark,Liverpool FC,07/02/2005,178 cm,MF,Scotland
+24,24,Maxwell Kinsey-Wellings,AFC Bournemouth,02/02/2005,???,DF,England
+25,25,Diogo Monteiro,Leeds United,28/01/2005,184 cm,DF,Portugal
+26,26,Lino Sousa,Arsenal FC,19/01/2005,185 cm,DF,England
+27,27,Facundo Buonanotte,Brighton & Hove Albion,23/12/2004,174 cm,MF,Argentina
+28,28,Reuell Walters,Arsenal FC,16/12/2004,???,DF,England
+29,29,James Wright,Aston Villa,02/12/2004,188 cm,GK,Northern Ireland
+30,30,Adler Nascimento,Crystal Palace,25/11/2004,183 cm,FW,Portugal
+31,31,Rico Lewis,Manchester City,21/11/2004,169 cm,DF,England
+32,32,Regan Clayton,West Ham United,11/11/2004,175 cm,DF,England
+33,33,Kaelan Casey,West Ham United,28/10/2004,185 cm,MF,England
+34,34,Divin Mubama,West Ham United,25/10/2004,183 cm,FW,England
+35,35,Stefan Bajčetić,Liverpool FC,22/10/2004,185 cm,MF,
+36,36,Bradley Ibrahim,Arsenal FC,21/10/2004,???,MF,England
+37,37,Evan Ferguson,Brighton & Hove Albion,19/10/2004,183 cm,FW,Ireland
+38,38,Kaden Rodney,Crystal Palace,07/10/2004,???,MF,England
+39,39,Detlef Osong,Nottingham Forest,21/09/2004,173 cm,FW,England
+40,40,Charlie Robinson,Fulham FC,19/09/2004,188 cm,DF,England
+41,41,Lewis Hall,Chelsea FC,08/09/2004,179 cm,MF,Australia
+42,42,Alfie Devine,Tottenham Hotspur,01/08/2004,167 cm,MF,England
+43,43,Charles Sagoe,Arsenal FC,24/07/2004,168 cm,MF,England
+44,44,Alejandro Garnacho,Manchester United,01/07/2004,180 cm,FW,Argentina
+45,45,Oliwier Zych,Aston Villa,28/06/2004,193 cm,GK,Poland
+46,46,Jeremiah Chilokoa-Mullen,Leeds United,17/06/2004,177 cm,DF,Scotland
+47,47,Ferdinand Okoh,AFC Bournemouth,03/06/2004,???,MF,Nigeria
+48,48,Gabriel Słonina,Chelsea FC,15/05/2004,193 cm,GK,
+49,49,Michael Forbes,West Ham United,29/04/2004,188 cm,DF,Northern Ireland
+50,50,Michael Olakigbe,Brentford FC,25/04/2004,187 cm,FW,Nigeria
+51,51,Mauro Bandeira,Arsenal FC,19/04/2004,???,MF,Portugal
+52,52,Stefan Parkes,Fulham FC,28/03/2004,173 cm,DF,England
+53,53,Sammy Braybrooke,Leicester City,12/03/2004,178 cm,MF,England
+54,54,Yegor Yarmolyuk,Brentford FC,01/03/2004,180 cm,MF,Ukraine
+55,55,Joe Whitworth,Crystal Palace,29/02/2004,192 cm,GK,England
+56,56,Darko Gyabi,Leeds United,18/02/2004,196 cm,MF,England
+57,57,Jack Wells-Morrison,Crystal Palace,18/02/2004,180 cm,MF,England
+58,58,Joe Snowdon,Leeds United,14/02/2004,???,MF,England
+59,59,Sonny Perkins,Leeds United,10/02/2004,178 cm,MF,England
+60,60,Julio Enciso,Brighton & Hove Albion,23/01/2004,173 cm,FW,Paraguay
+61,61,Melkamu Frauendorf,Liverpool FC,12/01/2004,180 cm,FW,Germany
+62,62,Juan Larios,Southampton FC,12/01/2004,173 cm,DF,Spain
+63,63,Roméo Lavia,Southampton FC,06/01/2004,181 cm,MF,Belgium
+64,64,Sil Swinkels,Aston Villa,06/01/2004,191 cm,DF,Netherlands
+65,65,Joe Wormleighton,Leicester City,30/12/2003,178 cm,MF,England
+66,66,Jhon Durán,Aston Villa,13/12/2003,185 cm,FW,
+67,67,Kristian Šekularac,Fulham FC,07/12/2003,185 cm,MF,
+68,68,Owen Goodman,Crystal Palace,27/11/2003,193 cm,GK,Canada
+69,69,Charlie Allen,Leeds United,22/11/2003,185 cm,MF,England
+70,70,Kris Moore,Leeds United,13/11/2003,189 cm,DF,England
+71,71,Jamal Baptiste,West Ham United,11/11/2003,186 cm,DF,England
+72,72,Shea Charles,Manchester City,05/11/2003,189 cm,DF,Northern Ireland
+73,73,Wilfried Gnonto,Leeds United,05/11/2003,170 cm,FW,Italy
+74,74,Dexter Lembikisa,Wolverhampton Wanderers,04/11/2003,180 cm,DF,England
+75,75,Rhys Bennett,Manchester United,30/10/2003,187 cm,DF,England
+76,76,Omari Hutchinson,Chelsea FC,29/10/2003,174 cm,MF,England
+77,77,Stanley Mills,Everton FC,25/10/2003,180 cm,MF,England
+78,78,Radek Vítek,Manchester United,24/10/2003,198 cm,GK,
+79,79,Carney Chukwuemeka,Chelsea FC,20/10/2003,187 cm,MF,England
+80,80,Mateo Fernández,Leeds United,19/10/2003,180 cm,FW,
+81,81,Andrew Moran,Brighton & Hove Albion,15/10/2003,168 cm,MF,Ireland
+82,82,Yasin Ayari,Brighton & Hove Albion,06/10/2003,172 cm,MF,Sweden
+83,83,Isaac Price,Everton FC,26/09/2003,197 cm,MF,Northern Ireland
+84,84,Harvey Griffiths,Wolverhampton Wanderers,22/09/2003,191 cm,MF,England
+85,85,Reece Welch,Everton FC,19/09/2003,197 cm,DF,England
+86,86,Diamond Edwards,Southampton FC,18/09/2003,175 cm,MF,England
+87,87,Charlie Whitaker,Everton FC,16/09/2003,185 cm,MF,England
+88,88,Khayon Edwards,Arsenal FC,12/09/2003,180 cm,FW,England
+89,89,Freddie Potts,West Ham United,12/09/2003,183 cm,MF,England
+90,90,Callum McFarlane,Fulham FC,08/09/2003,185 cm,FW,England
+91,91,Harvey Davies,Liverpool FC,03/09/2003,190 cm,GK,England
+92,92,Dominic Sadi,AFC Bournemouth,02/09/2003,???,MF,England
+93,93,Calvin Ramsay,Liverpool FC,31/07/2003,177 cm,DF,Scotland
+94,94,Sebastian Revan,Aston Villa,14/07/2003,181 cm,DF,England
+95,95,Dani van den Heuvel,Leeds United,28/05/2003,184 cm,GK,Netherlands
+96,96,Matthew Cox,Brentford FC,02/05/2003,182 cm,GK,France
+97,97,Zidane Iqbal,Manchester United,27/04/2003,181 cm,MF,Iraq
+98,98,Romaine Mundle,Tottenham Hotspur,24/04/2003,177 cm,MF,England
+99,99,Alex Robertson,Manchester City,17/04/2003,182 cm,MF,Australia
+100,100,Levi Laing,West Ham United,12/04/2003,188 cm,MF,England
+101,101,Finley Stevens,Brentford FC,10/04/2003,179 cm,DF,Wales
+102,102,Harvey Elliott,Liverpool FC,04/04/2003,170 cm,MF,England
+103,103,Martial Godo,Fulham FC,14/03/2003,???,MF,England
+104,104,Ryan Trevitt,Brentford FC,12/03/2003,???,MF,England
+105,105,Levi Colwill,Brighton & Hove Albion,26/02/2003,187 cm,DF,England
+106,106,Jack Wadham,AFC Bournemouth,25/02/2003,183 cm,MF,England
+107,107,Ben Greenwood,AFC Bournemouth,20/02/2003,???,DF,
+108,108,Jack Hinchy,Brighton & Hove Albion,30/01/2003,???,MF,England
+109,109,Samuel Edozie,Southampton FC,28/01/2003,179 cm,MF,England
+110,110,Máximo Perrone,Manchester City,07/01/2003,180 cm,MF,
+111,111,David Fofana,Chelsea FC,22/12/2002,181 cm,FW,Ivory Coast
+112,112,Victor Kristiansen,Leicester City,16/12/2002,181 cm,DF,Denmark
+113,113,Kamarai Simon-Swyer,West Ham United,04/12/2002,183 cm,MF,England
+114,114,Cătălin Cîrjan,Arsenal FC,01/12/2002,178 cm,MF,
+115,115,Carlos Alcaraz,Southampton FC,30/11/2002,183 cm,MF,Argentina
+116,116,Cameron Plain,AFC Bournemouth,28/11/2002,???,GK,England
+117,117,Chris Francis,AFC Bournemouth,15/11/2002,???,DF,England
+118,118,Oliver Hammond,Nottingham Forest,13/11/2002,179 cm,MF,Wales
+119,119,Tino Livramento,Southampton FC,12/11/2002,173 cm,DF,England
+120,120,Luciano D'Auria-Henry,Fulham FC,11/11/2002,178 cm,DF,
+121,121,Alex Gibson-Hammond,Nottingham Forest,10/11/2002,178 cm,MF,England
+122,122,Elliot Anderson,Newcastle United,06/11/2002,179 cm,MF,Scotland
+123,123,Amari Miller,Leeds United,04/11/2002,174 cm,FW,England
+124,124,Odeluga Offiah,Brighton & Hove Albion,26/10/2002,181 cm,DF,England
+125,125,Wanya Marçal-Madivadua,Leicester City,19/10/2002,181 cm,MF,Portugal
+126,126,Euan Pollock,AFC Bournemouth,03/10/2002,173 cm,FW,England
+127,127,Krisztián Hegyi,West Ham United,24/09/2002,193 cm,GK,
+128,128,Cameron Peupion,Brighton & Hove Albion,23/09/2002,175 cm,MF,Australia
+129,129,Hugo Bueno,Wolverhampton Wanderers,18/09/2002,180 cm,DF,Mexico
+130,130,Joe Hodge,Wolverhampton Wanderers,14/09/2002,172 cm,MF,Ireland
+131,131,Pape Sarr,Tottenham Hotspur,14/09/2002,184 cm,MF,Senegal
+132,132,Lucas Bergström,Chelsea FC,05/09/2002,205 cm,GK,
+133,133,Layton Stewart,Liverpool FC,03/09/2002,181 cm,FW,England
+134,134,Ilya Zabarnyi,AFC Bournemouth,01/09/2002,187 cm,DF,Ukraine
+135,135,Fabio Carvalho,Liverpool FC,30/08/2002,170 cm,FW,Portugal
+136,136,Sékou Mara,Southampton FC,30/07/2002,183 cm,FW,France
+137,137,Jeremy Sarmiento,Brighton & Hove Albion,16/06/2002,183 cm,MF,Ecuador
+138,138,Ben Knight,Manchester City,14/06/2002,170 cm,FW,England
+139,139,Aaron Hickey,Brentford FC,10/06/2002,185 cm,DF,Scotland
+140,140,Cole Palmer,Manchester City,06/05/2002,182 cm,MF,England
+141,141,Teden Mengi,Manchester United,30/04/2002,186 cm,DF,England
+142,142,Anthony Elanga,Manchester United,27/04/2002,178 cm,FW,Sweden
+143,143,Georginio Rutter,Leeds United,20/04/2002,182 cm,FW,France
+144,144,Karl Hein,Arsenal FC,13/04/2002,193 cm,GK,Germany
+145,145,Alexander Mighten,Nottingham Forest,11/04/2002,171 cm,FW,England
+146,146,Naouirou Ahamada,Crystal Palace,29/03/2002,183 cm,MF,France
+147,147,Noni Madueke,Chelsea FC,10/03/2002,182 cm,FW,England
+148,148,Luizão,West Ham United,08/03/2002,187 cm,DF,
+149,149,Gavin Bazunu,Southampton FC,20/02/2002,189 cm,GK,Ireland
+150,150,Kamaldeen Sulemana,Southampton FC,15/02/2002,174 cm,FW,Ghana
+151,151,Dango Ouattara,AFC Bournemouth,11/02/2002,177 cm,FW,Burkina Faso
+152,152,Sam Greenwood,Leeds United,26/01/2002,180 cm,FW,England
+153,153,Alex Gilbert,Brentford FC,28/12/2001,183 cm,FW,Ireland
+154,154,Facundo Pellistri,Manchester United,20/12/2001,174 cm,MF,Uruguay
+155,155,Michael Olise,Crystal Palace,12/12/2001,184 cm,MF,France
+156,156,Armel Bella-Kotchap,Southampton FC,11/12/2001,190 cm,DF,Germany
+157,157,Kevin Schade,Brentford FC,27/11/2001,183 cm,FW,Germany
+158,158,Harrison Ashby,Newcastle United,14/11/2001,180 cm,DF,Scotland
+159,159,Tristan Crama,Brentford FC,08/11/2001,192 cm,MF,France
+160,160,George Wickens,Fulham FC,08/11/2001,183 cm,GK,England
+161,161,Moisés Caicedo,Brighton & Hove Albion,02/11/2001,178 cm,MF,Ecuador
+162,162,Crysencio Summerville,Leeds United,30/10/2001,174 cm,MF,Netherlands
+163,163,Keenan Appiah-Forson,West Ham United,16/10/2001,174 cm,MF,England
+164,164,Nathan Patterson,Everton FC,16/10/2001,189 cm,DF,Scotland
+165,165,Terry Ablade,Fulham FC,12/10/2001,181 cm,FW,Finland
+166,166,Viljami Sinisalo,Aston Villa,11/10/2001,190 cm,GK,Finland
+167,167,Mason Greenwood,Manchester United,01/10/2001,181 cm,FW,England
+168,168,Armando Broja,Chelsea FC,10/09/2001,191 cm,FW,Albania
+169,169,Bukayo Saka,Arsenal FC,05/09/2001,178 cm,MF,England
+170,170,Boubacar Traoré,Wolverhampton Wanderers,20/08/2001,183 cm,MF,Mali
+171,171,Amadou Onana,Everton FC,16/08/2001,195 cm,MF,Belgium
+172,172,Gabriel Martinelli,Arsenal FC,18/06/2001,178 cm,FW,Argentina
+173,173,Billy Gilmour,Brighton & Hove Albion,11/06/2001,170 cm,MF,Scotland
+174,174,Luke Thomas,Leicester City,10/06/2001,181 cm,DF,England
+175,175,Rayan Aït Nouri,Wolverhampton Wanderers,06/06/2001,180 cm,DF,
+176,176,Jacob Ramsey,Aston Villa,28/05/2001,180 cm,MF,England
+177,177,Brennan Johnson,Nottingham Forest,23/05/2001,179 cm,FW,Wales
+178,178,Nathan Collins,Wolverhampton Wanderers,30/04/2001,193 cm,DF,Ireland
+179,179,Danilo,Nottingham Forest,29/04/2001,177 cm,MF,Brazil
+180,180,George Shelvey,Nottingham Forest,22/04/2001,188 cm,GK,England
+181,181,Neco Williams,Nottingham Forest,13/04/2001,183 cm,DF,Wales
+182,182,Benoît Badiashile,Chelsea FC,26/03/2001,194 cm,DF,France
+183,183,William Saliba,Arsenal FC,24/03/2001,192 cm,DF,France
+184,184,James Garner,Everton FC,13/03/2001,186 cm,MF,England
+185,185,Anthony Gordon,Newcastle United,24/02/2001,182 cm,FW,England
+186,186,Keane Lewis-Potter,Brentford FC,22/02/2001,170 cm,FW,England
+187,187,Kyle John,Everton FC,13/02/2001,166 cm,DF,England
+188,188,João Gomes,Wolverhampton Wanderers,12/02/2001,176 cm,MF,
+189,189,Rhys Williams,Liverpool FC,03/02/2001,195 cm,DF,Wales
+190,190,Curtis Jones,Liverpool FC,30/01/2001,185 cm,MF,England
+191,191,Enzo Fernández,Chelsea FC,17/01/2001,180 cm,MF,
+192,192,James Hillson,Arsenal FC,14/01/2001,180 cm,GK,England
+193,193,Mykhaylo Mudryk,Chelsea FC,05/01/2001,175 cm,MF,Ukraine
+194,194,Ellis Simms,Everton FC,05/01/2001,191 cm,FW,England
+195,195,Wesley Fofana,Chelsea FC,17/12/2000,186 cm,DF,France
+196,196,Kristoffer Klaesson,Leeds United,27/11/2000,189 cm,GK,Norway
+197,197,Lewis Brunt,Leicester City,06/11/2000,187 cm,MF,England
+198,198,Brenden Aaronson,Leeds United,22/10/2000,178 cm,MF,USA
+199,199,Nathan Ferguson,Crystal Palace,06/10/2000,184 cm,DF,England
+200,200,Matt Smith,Arsenal FC,05/10/2000,176 cm,MF,England
+201,201,Tariq Lamptey,Brighton & Hove Albion,30/09/2000,163 cm,DF,Ghana
+202,202,Kofi Balmer,Crystal Palace,19/09/2000,183 cm,DF,Northern Ireland
+203,203,Oliver Skipp,Tottenham Hotspur,16/09/2000,175 cm,MF,England
+204,204,Sergio Gómez,Manchester City,04/09/2000,171 cm,DF,
+205,205,Brandon Williams,Manchester United,03/09/2000,180 cm,DF,England
+206,206,Emile Smith Rowe,Arsenal FC,28/07/2000,182 cm,MF,England
+207,207,Erling Haaland,Manchester City,21/07/2000,194 cm,FW,Norway
+208,208,Tyrese Francois,Fulham FC,16/07/2000,167 cm,MF,Australia
+209,209,Marc Guéhi,Crystal Palace,13/07/2000,182 cm,DF,England
+210,210,Mikkel Damsgaard,Brentford FC,03/07/2000,180 cm,MF,Denmark
+211,211,Joseph Anang,West Ham United,08/06/2000,190 cm,GK,England
+212,212,Jan Paul van Hecke,Brighton & Hove Albion,08/06/2000,189 cm,DF,Netherlands
+213,213,Fábio Vieira,Arsenal FC,30/05/2000,170 cm,MF,
+214,214,Phil Foden,Manchester City,28/05/2000,171 cm,MF,England
+215,215,Ryan Sessegnon,Tottenham Hotspur,18/05/2000,178 cm,MF,England
+216,216,Dejan Kulusevski,Tottenham Hotspur,25/04/2000,186 cm,FW,Sweden
+217,217,Giulian Biancone,Nottingham Forest,31/03/2000,187 cm,DF,France
+218,218,Chris Richards,Crystal Palace,28/03/2000,188 cm,DF,USA
+219,219,Thomas McGill,Brighton & Hove Albion,25/03/2000,185 cm,GK,England
+220,220,Jadon Sancho,Manchester United,25/03/2000,180 cm,FW,England
+221,221,Matthew Longstaff,Newcastle United,21/03/2000,171 cm,MF,England
+222,222,Pedro Neto,Wolverhampton Wanderers,09/03/2000,173 cm,FW,Portugal
+223,223,Illan Meslier,Leeds United,02/03/2000,197 cm,GK,France
+224,224,Antony,Manchester United,24/02/2000,172 cm,FW,
+225,225,Hamed Traorè,AFC Bournemouth,16/02/2000,184 cm,MF,Ivory Coast
+226,226,Jakub Kiwior,Arsenal FC,15/02/2000,189 cm,DF,Poland
+227,227,Tetê,Leicester City,15/02/2000,175 cm,FW,Spain
+228,228,Conor Gallagher,Chelsea FC,06/02/2000,182 cm,MF,England
+229,229,Chiquinho,Wolverhampton Wanderers,05/02/2000,179 cm,FW,Brazil
+230,230,Julián Álvarez,Manchester City,31/01/2000,170 cm,FW,
+231,231,Morgan Gibbs-White,Nottingham Forest,27/01/2000,171 cm,MF,England
+232,232,Ben Johnson,West Ham United,24/01/2000,175 cm,DF,England
+233,233,Sven Botman,Newcastle United,12/01/2000,195 cm,DF,Netherlands
+234,234,Cheick Doucouré,Crystal Palace,08/01/2000,180 cm,MF,Mali
+235,235,Antoine Semenyo,AFC Bournemouth,07/01/2000,185 cm,FW,Ghana
+236,236,Reiss Nelson,Arsenal FC,10/12/1999,175 cm,FW,England
+237,237,Reece James,Chelsea FC,08/12/1999,179 cm,DF,England
+238,238,Jaidon Anthony,AFC Bournemouth,01/12/1999,183 cm,FW,England
+239,239,Boubacar Kamara,Aston Villa,23/11/1999,184 cm,MF,France
+240,240,Dwight McNeil,Everton FC,22/11/1999,183 cm,FW,England
+241,241,Jordan Zemura,AFC Bournemouth,14/11/1999,173 cm,DF,Zimbabwe
+242,242,João Félix,Chelsea FC,10/11/1999,181 cm,FW,
+243,243,Albert Lokonga,Crystal Palace,22/10/1999,183 cm,MF,Belgium
+244,244,Nathan Bishop,Manchester United,15/10/1999,185 cm,GK,England
+245,245,Alexander Isak,Newcastle United,21/09/1999,192 cm,FW,Sweden
+246,246,Pedro Porro,Tottenham Hotspur,13/09/1999,176 cm,DF,Spain
+247,247,Tyrick Mitchell,Crystal Palace,01/09/1999,175 cm,DF,England
+248,248,Joe Willock,Newcastle United,20/08/1999,186 cm,MF,England
+249,249,Tyrell Malacia,Manchester United,17/08/1999,169 cm,DF,Netherlands
+250,250,Pascal Struijk,Leeds United,11/08/1999,190 cm,DF,Netherlands
+251,251,Bryan Mbeumo,Brentford FC,07/08/1999,171 cm,FW,Cameroon
+252,252,Manor Solomon,Fulham FC,24/07/1999,167 cm,FW,Israel
+253,253,Trevoh Chalobah,Chelsea FC,05/07/1999,192 cm,DF,England
+254,254,Darwin Núñez,Liverpool FC,24/06/1999,187 cm,FW,
+255,255,Mads Roerslev,Brentford FC,24/06/1999,184 cm,DF,Denmark
+256,256,Luis Sinisterra,Leeds United,17/06/1999,172 cm,MF,Colombia
+257,257,Kai Havertz,Chelsea FC,11/06/1999,193 cm,FW,Germany
+258,258,Eddie Nketiah,Arsenal FC,30/05/1999,180 cm,FW,England
+259,259,Vitaliy Mykolenko,Everton FC,29/05/1999,180 cm,DF,Ukraine
+260,260,Matheus Cunha,Wolverhampton Wanderers,27/05/1999,184 cm,FW,Brazil
+261,261,Ibrahima Konaté,Liverpool FC,25/05/1999,194 cm,DF,France
+262,262,Mark Travers,AFC Bournemouth,18/05/1999,191 cm,GK,Ireland
+263,263,Cody Gakpo,Liverpool FC,07/05/1999,187 cm,FW,Netherlands
+264,264,Mohammed Salisu,Southampton FC,17/04/1999,191 cm,DF,Ghana
+265,265,Rúben Vinagre,Everton FC,09/04/1999,174 cm,DF,
+266,266,Jakub Moder,Brighton & Hove Albion,07/04/1999,191 cm,MF,Poland
+267,267,Japhet Tanganga,Tottenham Hotspur,31/03/1999,184 cm,DF,England
+268,268,Marcus Tavernier,AFC Bournemouth,22/03/1999,178 cm,MF,England
+269,269,Diogo Dalot,Manchester United,18/03/1999,183 cm,DF,Portugal
+270,270,Ibrahima Diallo,Southampton FC,08/03/1999,179 cm,MF,Guinea
+271,271,Boubakary Soumaré,Leicester City,27/02/1999,188 cm,MF,France
+272,272,Tyler Adams,Leeds United,14/02/1999,175 cm,MF,USA
+273,273,Flynn Downes,West Ham United,20/01/1999,173 cm,MF,England
+274,274,Toti,Wolverhampton Wanderers,16/01/1999,187 cm,DF,Spain
+275,275,Emerson Royal,Tottenham Hotspur,14/01/1999,183 cm,DF,Brazil
+276,276,Declan Rice,West Ham United,14/01/1999,185 cm,MF,England
+277,277,Mason Mount,Chelsea FC,10/01/1999,181 cm,MF,England
+278,278,Brandon Austin,Tottenham Hotspur,08/01/1999,188 cm,GK,England
+279,279,Gianluca Scamacca,West Ham United,01/01/1999,195 cm,FW,Italy
+280,280,Alexis Mac Allister,Brighton & Hove Albion,24/12/1998,174 cm,MF,Argentina
+281,281,Martin Ødegaard,Arsenal FC,17/12/1998,178 cm,MF,
+282,282,Caoimhín Kelleher,Liverpool FC,23/11/1998,188 cm,GK,
+283,283,Takehiro Tomiyasu,Arsenal FC,05/11/1998,188 cm,DF,Japan
+284,284,Joshua Dasilva,Brentford FC,23/10/1998,184 cm,MF,England
+285,285,Harry Souttar,Leicester City,22/10/1998,198 cm,DF,Australia
+286,286,Patson Daka,Leicester City,09/10/1998,183 cm,FW,Zambia
+287,287,Trent Alexander-Arnold,Liverpool FC,07/10/1998,180 cm,DF,England
+288,288,Lloyd Kelly,AFC Bournemouth,06/10/1998,190 cm,DF,England
+289,289,Alfie Whiteman,Tottenham Hotspur,02/10/1998,189 cm,GK,England
+290,290,Christian Pulišić,Chelsea FC,18/09/1998,178 cm,FW,
+291,291,Kiernan Dewsbury-Hall,Leicester City,06/09/1998,178 cm,MF,England
+292,292,Weston McKennie,Leeds United,28/08/1998,183 cm,MF,USA
+293,293,Matheus Nunes,Wolverhampton Wanderers,27/08/1998,184 cm,MF,Brazil
+294,294,Sam Surridge,Nottingham Forest,28/07/1998,191 cm,FW,England
+295,295,Cucurella,Chelsea FC,22/07/1998,173 cm,DF,Spain
+296,296,Tom Davies,Everton FC,30/06/1998,180 cm,MF,England
+297,297,Eberechi Eze,Crystal Palace,29/06/1998,178 cm,MF,England
+298,298,Moussa Djénépo,Southampton FC,15/06/1998,177 cm,MF,Mali
+299,299,Aaron Ramsdale,Arsenal FC,14/05/1998,190 cm,GK,England
+300,300,Vitaly Janelt,Brentford FC,10/05/1998,184 cm,MF,Germany
+301,301,Douglas Luiz,Aston Villa,09/05/1998,177 cm,MF,Brazil
+302,302,Cristian Romero,Tottenham Hotspur,27/04/1998,185 cm,DF,Chile
+303,303,Kristoffer Ajer,Brentford FC,17/04/1998,196 cm,DF,Norway
+304,304,Shandon Baptiste,Brentford FC,08/04/1998,175 cm,MF,Grenada
+305,305,Renan Lodi,Nottingham Forest,08/04/1998,173 cm,DF,Brazil
+306,306,Wout Faes,Leicester City,03/04/1998,187 cm,DF,Belgium
+307,307,Orel Mangala,Nottingham Forest,18/03/1998,178 cm,MF,Belgium
+308,308,James Justin,Leicester City,23/02/1998,183 cm,DF,England
+309,309,Omar Richards,Nottingham Forest,15/02/1998,174 cm,DF,England
+310,310,Max Wöber,Leeds United,04/02/1998,188 cm,DF,
+311,311,Jamal Lewis,Newcastle United,25/01/1998,178 cm,DF,Northern Ireland
+312,312,Pervis Estupiñán,Brighton & Hove Albion,21/01/1998,175 cm,DF,
+313,313,Lisandro Martínez,Manchester United,18/01/1998,175 cm,DF,
+314,314,Odsonne Édouard,Crystal Palace,16/01/1998,187 cm,FW,France
+315,315,Ben Godfrey,Everton FC,15/01/1998,184 cm,DF,England
+316,316,Frank Onyeka,Brentford FC,01/01/1998,183 cm,MF,Nigeria
+317,317,Gabriel,Arsenal FC,19/12/1997,190 cm,DF,Brazil
+318,318,James Bree,Southampton FC,11/12/1997,178 cm,DF,England
+319,319,Harvey Barnes,Leicester City,09/12/1997,174 cm,MF,England
+320,320,Aaron Wan-Bissaka,Manchester United,26/11/1997,183 cm,DF,England
+321,321,Ryan Yates,Nottingham Forest,21/11/1997,190 cm,MF,England
+322,322,Robert Sánchez,Brighton & Hove Albion,18/11/1997,197 cm,GK,
+323,323,Bruno Guimarães,Newcastle United,16/11/1997,182 cm,MF,
+324,324,Emmanuel Dennis,Nottingham Forest,15/11/1997,175 cm,FW,Nigeria
+325,325,Dan James,Fulham FC,10/11/1997,170 cm,FW,Wales
+326,326,Matías Viña,AFC Bournemouth,09/11/1997,180 cm,DF,
+327,327,Chris Mepham,AFC Bournemouth,05/11/1997,191 cm,DF,Wales
+328,328,Marcus Rashford,Manchester United,31/10/1997,185 cm,FW,England
+329,329,Sean Longstaff,Newcastle United,30/10/1997,181 cm,MF,England
+330,330,Ezri Konsa,Aston Villa,23/10/1997,183 cm,DF,England
+331,331,Ben White,Arsenal FC,08/10/1997,186 cm,DF,England
+332,332,Tosin Adarabioyo,Fulham FC,24/09/1997,196 cm,DF,England
+333,333,Romain Perraud,Southampton FC,22/09/1997,173 cm,DF,France
+334,334,Dominic Solanke,AFC Bournemouth,14/09/1997,187 cm,FW,England
+335,335,Ainsley Maitland-Niles,Southampton FC,29/08/1997,180 cm,MF,England
+336,336,Lucas Paquetá,West Ham United,27/08/1997,180 cm,MF,
+337,337,Taiwo Awoniyi,Nottingham Forest,12/08/1997,183 cm,FW,Nigeria
+338,338,Leon Bailey,Aston Villa,09/08/1997,178 cm,MF,Jamaica
+339,339,Antonee Robinson,Fulham FC,08/08/1997,183 cm,DF,USA
+340,340,Matty Cash,Aston Villa,07/08/1997,185 cm,DF,Poland
+341,341,Daniel Iversen,Leicester City,19/07/1997,193 cm,GK,Denmark
+342,342,Rasmus Kristensen,Leeds United,11/07/1997,187 cm,DF,Denmark
+343,343,David Brooks,AFC Bournemouth,08/07/1997,173 cm,FW,Wales
+344,344,Rico Henry,Brentford FC,08/07/1997,170 cm,DF,England
+345,345,Saša Kalajdžić,Wolverhampton Wanderers,07/07/1997,200 cm,FW,
+346,346,Jean-Philippe Mateta,Crystal Palace,28/06/1997,192 cm,FW,France
+347,347,Rodrigo Bentancur,Tottenham Hotspur,25/06/1997,187 cm,MF,Uruguay
+348,348,Kieran Tierney,Arsenal FC,05/06/1997,180 cm,DF,Scotland
+349,349,Joe Gomez,Liverpool FC,23/05/1997,188 cm,DF,England
+350,350,Maximilian Kilman,Wolverhampton Wanderers,23/05/1997,194 cm,DF,England
+351,351,Kaoru Mitoma,Brighton & Hove Albion,20/05/1997,178 cm,MF,Japan
+352,352,Rúben Dias,Manchester City,14/05/1997,187 cm,DF,
+353,353,Richarlison,Tottenham Hotspur,10/05/1997,184 cm,FW,Brazil
+354,354,Marcos Senesi,AFC Bournemouth,10/05/1997,185 cm,DF,Argentina
+355,355,Youri Tielemans,Leicester City,07/05/1997,176 cm,MF,Belgium
+356,356,Donny van de Beek,Manchester United,18/04/1997,184 cm,MF,Netherlands
+357,357,Kyle Walker-Peters,Southampton FC,13/04/1997,173 cm,DF,England
+358,358,Gabriel Jesus,Arsenal FC,03/04/1997,175 cm,FW,Brazil
+359,359,Harry Wilson,Fulham FC,22/03/1997,173 cm,FW,Wales
+360,360,Nathaniel Phillips,Liverpool FC,21/03/1997,190 cm,DF,England
+361,361,Dominic Calvert-Lewin,Everton FC,16/03/1997,189 cm,FW,England
+362,362,Rúben Neves,Wolverhampton Wanderers,13/03/1997,180 cm,MF,
+363,363,Dean Henderson,Nottingham Forest,12/03/1997,188 cm,GK,England
+364,364,Allan Saint-Maximin,Newcastle United,12/03/1997,173 cm,FW,France
+365,365,Adam Armstrong,Southampton FC,10/02/1997,173 cm,FW,England
+366,366,Lewis Cook,AFC Bournemouth,03/02/1997,175 cm,MF,England
+367,367,Lyanco,Southampton FC,01/02/1997,187 cm,DF,Brazil
+368,368,Arnaut Danjuma,Tottenham Hotspur,31/01/1997,178 cm,FW,Netherlands
+369,369,Luis Díaz,Liverpool FC,13/01/1997,180 cm,FW,
+370,370,Joe Worrall,Nottingham Forest,10/01/1997,190 cm,DF,England
+371,371,Issa Diop,Fulham FC,09/01/1997,194 cm,DF,France
+372,372,Emiliano Buendia,Aston Villa,25/12/1996,172 cm,MF,Argentina
+373,373,Ben Chilwell,Chelsea FC,21/12/1996,181 cm,DF,England
+374,374,Jarrod Bowen,West Ham United,20/12/1996,175 cm,FW,England
+375,375,Wilfred Ndidi,Leicester City,16/12/1996,183 cm,MF,Nigeria
+376,376,Oleksandr Zinchenko,Arsenal FC,15/12/1996,175 cm,DF,Ukraine
+377,377,Marek Rodák,Fulham FC,13/12/1996,194 cm,GK,
+378,378,Scott McTominay,Manchester United,08/12/1996,191 cm,MF,Scotland
+379,379,Diogo Jota,Liverpool FC,04/12/1996,178 cm,FW,Portugal
+380,380,Marc Roca,Leeds United,26/11/1996,184 cm,MF,Spain
+381,381,James Maddison,Leicester City,23/11/1996,175 cm,MF,England
+382,382,Jack Harrison,Leeds United,20/11/1996,175 cm,MF,Scotland
+383,383,Denis Zakaria,Chelsea FC,20/11/1996,190 cm,MF,Switzerland
+384,384,Scott McKenna,Nottingham Forest,12/11/1996,189 cm,DF,Scotland
+385,385,Mason Holgate,Everton FC,22/10/1996,187 cm,DF,England
+386,386,Kelechi Iheanacho,Leicester City,03/10/1996,185 cm,FW,Nigeria
+387,387,Maxwel Cornet,West Ham United,27/09/1996,179 cm,MF,Ivory Coast
+388,388,Thilo Kehrer,West Ham United,21/09/1996,186 cm,DF,Germany
+389,389,Duje Ćaleta-Car,Southampton FC,17/09/1996,192 cm,DF,
+390,390,Jaïro Riedewald,Crystal Palace,09/09/1996,182 cm,MF,
+391,391,Yoane Wissa,Brentford FC,03/09/1996,176 cm,FW,Congo DR
+392,392,Yves Bissouma,Tottenham Hotspur,30/08/1996,182 cm,MF,Mali
+393,393,Junior Firpo,Leeds United,22/08/1996,184 cm,DF,Spain
+394,394,Joelinton,Newcastle United,14/08/1996,186 cm,MF,Brazil
+395,395,Neal Maupay,Everton FC,14/08/1996,173 cm,FW,France
+396,396,Saša Lukić,Fulham FC,13/08/1996,182 cm,MF,
+397,397,Arthur,Liverpool FC,12/08/1996,172 cm,MF,Brazil
+398,398,Joe Aribo,Southampton FC,21/07/1996,183 cm,MF,Nigeria
+399,399,Deniz Undav,Brighton & Hove Albion,19/07/1996,178 cm,FW,Germany
+400,400,Robin Koch,Leeds United,17/07/1996,191 cm,DF,Germany
+401,401,Ché Adams,Southampton FC,13/07/1996,179 cm,FW,Scotland
+402,402,Demarai Gray,Everton FC,28/06/1996,183 cm,FW,England
+403,403,Rodri,Manchester City,22/06/1996,191 cm,MF,Spain
+404,404,Davinson Sánchez,Tottenham Hotspur,12/06/1996,187 cm,DF,
+405,405,Philip Billing,AFC Bournemouth,11/06/1996,193 cm,MF,Denmark
+406,406,Joachim Andersen,Crystal Palace,31/05/1996,192 cm,DF,Denmark
+407,407,Çağlar Söyüncü,Leicester City,23/05/1996,185 cm,DF,
+408,408,Kostas Tsimikas,Liverpool FC,12/05/1996,179 cm,DF,Greece
+409,409,Alex Iwobi,Everton FC,03/05/1996,183 cm,MF,Nigeria
+410,410,Jan Bednarek,Southampton FC,12/04/1996,189 cm,DF,Poland
+411,411,Jack Stacey,AFC Bournemouth,06/04/1996,180 cm,DF,England
+412,412,Nayef Aguerd,West Ham United,30/03/1996,190 cm,DF,Morocco
+413,413,Ivan Toney,Brentford FC,16/03/1996,179 cm,FW,England
+414,414,Moussa Niakhaté,Nottingham Forest,08/03/1996,190 cm,DF,France
+415,415,Pablo Fornals,West Ham United,22/02/1996,178 cm,MF,Spain
+416,416,Hee-chan Hwang,Wolverhampton Wanderers,26/01/1996,177 cm,FW,South Korea
+417,417,Adama Traoré,Wolverhampton Wanderers,25/01/1996,178 cm,FW,Ivory Coast
+418,418,Ruben Loftus-Cheek,Chelsea FC,23/01/1996,191 cm,MF,England
+419,419,Andreas Pereira,Fulham FC,01/01/1996,178 cm,MF,Brazil
+420,420,Mathias Jensen,Brentford FC,01/01/1996,180 cm,MF,Denmark
+421,421,Ollie Watkins,Aston Villa,30/12/1995,180 cm,FW,England
+422,422,Timothy Castagne,Leicester City,05/12/1995,185 cm,DF,Belgium
+423,423,Anthony Martial,Manchester United,05/12/1995,181 cm,FW,France
+424,424,Kalvin Phillips,Manchester City,02/12/1995,179 cm,MF,England
+425,425,Daniel Podence,Wolverhampton Wanderers,21/10/1995,165 cm,FW,Portugal
+426,426,Kenny Tete,Fulham FC,09/10/1995,180 cm,DF,Netherlands
+427,427,Rob Holding,Arsenal FC,20/09/1995,189 cm,DF,England
+428,428,Matt Targett,Newcastle United,18/09/1995,183 cm,DF,England
+429,429,David Raya,Brentford FC,15/09/1995,183 cm,GK,Spain
+430,430,Jack Grealish,Manchester City,10/09/1995,180 cm,MF,England
+431,431,Bertrand Traoré,Aston Villa,06/09/1995,181 cm,FW,Burkina Faso
+432,432,Harry Toffolo,Nottingham Forest,19/08/1995,183 cm,DF,England
+433,433,Saïd Benrahma,West Ham United,10/08/1995,172 cm,FW,
+434,434,Pierre-Emile Højbjerg,Tottenham Hotspur,05/08/1995,185 cm,MF,
+435,435,Manuel Akanji,Manchester City,19/07/1995,187 cm,DF,Switzerland
+436,436,Luke Shaw,Manchester United,12/07/1995,178 cm,DF,England
+437,437,João Palhinha,Fulham FC,09/07/1995,190 cm,MF,
+438,438,Clément Lenglet,Tottenham Hotspur,17/06/1995,186 cm,DF,France
+439,439,Will Hughes,Crystal Palace,17/04/1995,185 cm,MF,England
+440,440,Leander Dendoncker,Aston Villa,15/04/1995,188 cm,MF,Belgium
+441,441,Carlos Vinícius,Fulham FC,25/03/1995,190 cm,FW,
+442,442,Thomas Strakosha,Brentford FC,19/03/1995,186 cm,GK,Albania
+443,443,Tomáš Souček,West Ham United,27/02/1995,192 cm,MF,
+444,444,Jacob Murphy,Newcastle United,24/02/1995,173 cm,MF,England
+445,445,Ryan Christie,AFC Bournemouth,22/02/1995,178 cm,MF,Scotland
+446,446,Nathan Aké,Manchester City,18/02/1995,180 cm,DF,Netherlands
+447,447,Naby Keïta,Liverpool FC,10/02/1995,172 cm,MF,
+448,448,Harrison Reed,Fulham FC,27/01/1995,181 cm,MF,England
+449,449,Calum Chambers,Aston Villa,20/01/1995,182 cm,DF,England
+450,450,Joe Rothwell,AFC Bournemouth,11/01/1995,185 cm,MF,England
+451,451,Adam Webster,Brighton & Hove Albion,04/01/1995,191 cm,DF,England
+452,452,Daniel Amartey,Leicester City,21/12/1994,186 cm,DF,Ghana
+453,453,Raheem Sterling,Chelsea FC,08/12/1994,172 cm,FW,England
+454,454,Leandro Trossard,Arsenal FC,04/12/1994,172 cm,FW,Belgium
+455,455,James Ward-Prowse,Southampton FC,01/11/1994,177 cm,MF,England
+456,456,Kurt Zouma,West Ham United,27/10/1994,190 cm,DF,France
+457,457,Jefferson Lerma,AFC Bournemouth,25/10/1994,179 cm,MF,Colombia
+458,458,John McGinn,Aston Villa,18/10/1994,178 cm,MF,Scotland
+459,459,Kepa,Chelsea FC,03/10/1994,189 cm,GK,Spain
+460,460,Yerry Mina,Everton FC,23/09/1994,195 cm,DF,Colombia
+461,461,Aleksandar Mitrović,Fulham FC,16/09/1994,189 cm,FW,
+462,462,Bruno Fernandes,Manchester United,08/09/1994,179 cm,MF,Guinea-Bissau
+463,463,Bernardo Silva,Manchester City,10/08/1994,173 cm,MF,Portugal
+464,464,Mohamed Elyounoussi,Southampton FC,04/08/1994,178 cm,FW,Norway
+465,465,Emerson,West Ham United,03/08/1994,176 cm,DF,Brazil
+466,466,Emil Krafth,Newcastle United,02/08/1994,184 cm,DF,Sweden
+467,467,Solly March,Brighton & Hove Albion,20/07/1994,180 cm,MF,England
+468,468,Victor Lindelöf,Manchester United,17/07/1994,187 cm,DF,
+469,469,Benjamin Mendy,Manchester City,17/07/1994,185 cm,DF,France
+470,470,Matt Turner,Arsenal FC,24/06/1994,191 cm,GK,USA
+471,471,Paul Onuachu,Southampton FC,28/05/1994,201 cm,FW,Nigeria
+472,472,John Stones,Manchester City,28/05/1994,188 cm,DF,England
+473,473,Aymeric Laporte,Manchester City,27/05/1994,190 cm,DF,Spain
+474,474,Dennis Praet,Leicester City,14/05/1994,181 cm,MF,Belgium
+475,475,Mateo Kovačić,Chelsea FC,06/05/1994,177 cm,MF,
+476,476,Manquillo,Newcastle United,05/05/1994,178 cm,DF,Spain
+477,477,Marcel Sabitzer,Manchester United,17/03/1994,178 cm,MF,Austria
+478,478,Andy Robertson,Liverpool FC,11/03/1994,178 cm,DF,Scotland
+479,479,Christian Nørgaard,Brentford FC,10/03/1994,187 cm,MF,
+480,480,Jordan Pickford,Everton FC,07/03/1994,185 cm,GK,England
+481,481,Jonny,Wolverhampton Wanderers,03/03/1994,175 cm,DF,
+482,482,Ryan Fraser,Newcastle United,24/02/1994,163 cm,FW,Scotland
+483,483,Miguel Almirón,Newcastle United,10/02/1994,174 cm,MF,
+484,484,Jack Stephens,AFC Bournemouth,27/01/1994,185 cm,DF,England
+485,485,Eric Dier,Tottenham Hotspur,15/01/1994,188 cm,DF,England
+486,486,Gustavo Scarpa,Nottingham Forest,05/01/1994,177 cm,MF,Brazil
+487,487,Nélson Semedo,Wolverhampton Wanderers,16/11/1993,177 cm,DF,Portugal
+488,488,Jamaal Lascelles,Newcastle United,11/11/1993,188 cm,DF,England
+489,489,Fabinho,Liverpool FC,23/10/1993,188 cm,MF,Brazil
+490,490,Ricardo Pereira,Leicester City,06/10/1993,175 cm,DF,Portugal
+491,491,Saman Ghoddos,Brentford FC,06/09/1993,176 cm,FW,Iran
+492,492,Patrick Bamford,Leeds United,05/09/1993,185 cm,FW,England
+493,493,Mario Lemina,Wolverhampton Wanderers,01/09/1993,184 cm,MF,Gabon
+494,494,Ederson,Manchester City,17/08/1993,188 cm,GK,Brazil
+495,495,Alex Oxlade-Chamberlain,Liverpool FC,15/08/1993,175 cm,MF,England
+496,496,Harry Kane,Tottenham Hotspur,28/07/1993,188 cm,FW,England
+497,497,Lucas Digne,Aston Villa,20/07/1993,178 cm,DF,France
+498,498,Daniel Bentley,Wolverhampton Wanderers,13/07/1993,193 cm,GK,England
+499,499,Loris Karius,Newcastle United,22/06/1993,191 cm,GK,Germany
+500,500,Danny Ward,Leicester City,22/06/1993,191 cm,GK,England
+501,501,Thomas Partey,Arsenal FC,13/06/1993,185 cm,MF,Ghana
+502,502,Álex Moreno,Aston Villa,08/06/1993,179 cm,DF,
+503,503,Ethan Pinnock,Brentford FC,29/05/1993,187 cm,DF,Jamaica
+504,504,Raphaël Varane,Manchester United,25/04/1993,191 cm,DF,
+505,505,Ben Davies,Tottenham Hotspur,24/04/1993,181 cm,DF,Wales
+506,506,Sam Johnstone,Crystal Palace,25/03/1993,193 cm,GK,England
+507,507,Hakim Ziyech,Chelsea FC,19/03/1993,180 cm,FW,Morocco
+508,508,Diego Carlos,Aston Villa,15/03/1993,185 cm,DF,Brazil
+509,509,Tyrone Mings,Aston Villa,13/03/1993,196 cm,DF,England
+510,510,Jack Butland,Manchester United,10/03/1993,196 cm,GK,England
+511,511,Fred,Manchester United,05/03/1993,169 cm,MF,Brazil
+512,512,Harry Maguire,Manchester United,05/03/1993,194 cm,DF,Australia
+513,513,Alphonse Aréola,West Ham United,27/02/1993,195 cm,GK,France
+514,514,Cafú,Nottingham Forest,26/02/1993,185 cm,MF,
+515,515,Conor Coady,Everton FC,25/02/1993,185 cm,DF,England
+516,516,Manuel Lanzini,West Ham United,15/02/1993,167 cm,MF,Argentina
+517,517,Bobby Decordova-Reid,Fulham FC,02/02/1993,170 cm,FW,Jamaica
+518,518,José Sá,Wolverhampton Wanderers,17/01/1993,192 cm,GK,
+519,519,Michael Keane,Everton FC,11/01/1993,188 cm,DF,Ireland
+520,520,Abdoulaye Doucouré,Everton FC,01/01/1993,183 cm,MF,Mali
+521,521,Mislav Oršić,Southampton FC,29/12/1992,179 cm,FW,
+522,522,Sèrge Aurier,Nottingham Forest,24/12/1992,176 cm,DF,Ivory Coast
+523,523,Jeffrey Schlupp,Crystal Palace,23/12/1992,178 cm,MF,Ghana
+524,524,Jesse Lingard,Nottingham Forest,15/12/1992,175 cm,MF,England
+525,525,James Tarkowski,Everton FC,19/11/1992,185 cm,DF,England
+526,526,Wilfried Zaha,Crystal Palace,10/11/1992,180 cm,MF,Ivory Coast
+527,527,Stefan Ortega,Manchester City,06/11/1992,185 cm,GK,Germany
+528,528,Ryan Fredericks,AFC Bournemouth,10/10/1992,181 cm,DF,England
+529,529,Alisson,Liverpool FC,02/10/1992,191 cm,GK,Brazil
+530,530,Granit Xhaka,Arsenal FC,27/09/1992,186 cm,MF,Switzerland
+531,531,Jed Steer,Aston Villa,23/09/1992,183 cm,GK,England
+532,532,Layvin Kurzawa,Fulham FC,04/09/1992,182 cm,DF,France
+533,533,Emiliano Martínez,Aston Villa,02/09/1992,195 cm,GK,
+534,534,Vladimír Coufal,West Ham United,22/08/1992,174 cm,DF,
+535,535,Lucas Moura,Tottenham Hotspur,13/08/1992,172 cm,FW,Brazil
+536,536,Kieffer Moore,AFC Bournemouth,08/08/1992,195 cm,FW,Wales
+537,537,Wout Weghorst,Manchester United,07/08/1992,197 cm,FW,Netherlands
+538,538,Jannik Vestergaard,Leicester City,03/08/1992,199 cm,DF,Denmark
+539,539,Danny Ings,West Ham United,23/07/1992,178 cm,FW,England
+540,540,Mohamed Elneny,Arsenal FC,11/07/1992,179 cm,MF,Egypt
+541,541,Heung-min Son,Tottenham Hotspur,08/07/1992,184 cm,FW,South Korea
+542,542,Nampalys Mendy,Leicester City,23/06/1992,167 cm,MF,Senegal
+543,543,Mo Salah,Liverpool FC,15/06/1992,175 cm,FW,Egypt
+544,544,Coutinho,Aston Villa,12/06/1992,172 cm,MF,Brazil
+545,545,Marcus Bettinelli,Chelsea FC,24/05/1992,193 cm,GK,England
+546,546,Pablo Sarabia,Wolverhampton Wanderers,11/05/1992,174 cm,MF,Spain
+547,547,Dan Burn,Newcastle United,09/05/1992,201 cm,DF,England
+548,548,Nick Pope,Newcastle United,19/04/1992,198 cm,GK,England
+549,549,Remo Freuler,Nottingham Forest,15/04/1992,181 cm,MF,Switzerland
+550,550,Stuart Armstrong,Southampton FC,30/03/1992,183 cm,MF,Scotland
+551,551,Mark Gillespie,Newcastle United,27/03/1992,191 cm,GK,England
+552,552,Neeskens Kebano,Fulham FC,10/03/1992,170 cm,FW,Congo DR
+553,553,Bernd Leno,Fulham FC,04/03/1992,190 cm,GK,Germany
+554,554,Edouard Mendy,Chelsea FC,01/03/1992,194 cm,GK,Senegal
+555,555,Jonjo Shelvey,Nottingham Forest,27/02/1992,184 cm,MF,England
+556,556,Callum Wilson,Newcastle United,27/02/1992,180 cm,FW,England
+557,557,Casemiro,Manchester United,23/02/1992,185 cm,MF,Brazil
+558,558,Phil Jones,Manchester United,21/02/1992,185 cm,DF,England
+559,559,Christian Eriksen,Manchester United,14/02/1992,182 cm,MF,Denmark
+560,560,Joël Veltman,Brighton & Hove Albion,15/01/1992,184 cm,DF,
+561,561,Shane Duffy,Fulham FC,01/01/1992,193 cm,DF,Ireland
+562,562,Jorginho,Arsenal FC,20/12/1991,178 cm,MF,Brazil
+563,563,Fabian Schär,Newcastle United,20/12/1991,186 cm,DF,
+564,564,Chris Wood,Nottingham Forest,07/12/1991,191 cm,FW,New Zealand
+565,565,Lewis Dunk,Brighton & Hove Albion,21/11/1991,192 cm,DF,England
+566,566,Adam Forshaw,Leeds United,08/10/1991,175 cm,MF,England
+567,567,Roberto Firmino,Liverpool FC,02/10/1991,181 cm,FW,Brazil
+568,568,Paul Dummett,Newcastle United,26/09/1991,183 cm,DF,Wales
+569,569,Jordan Ayew,Crystal Palace,11/09/1991,182 cm,FW,Ghana
+570,570,Cédric,Fulham FC,31/08/1991,171 cm,DF,Ivory Coast
+571,571,Liam Cooper,Leeds United,30/08/1991,186 cm,DF,Scotland
+572,572,Luke Ayling,Leeds United,25/08/1991,183 cm,DF,England
+573,573,Joel Matip,Liverpool FC,08/08/1991,195 cm,DF,Cameroon
+574,574,Andros Townsend,Everton FC,16/07/1991,181 cm,FW,England
+575,575,Virgil van Dijk,Liverpool FC,08/07/1991,193 cm,DF,Netherlands
+576,576,Kevin De Bruyne,Manchester City,28/06/1991,181 cm,MF,Belgium
+577,577,Kalidou Koulibaly,Chelsea FC,20/06/1991,186 cm,DF,Senegal
+578,578,Pascal Groß,Brighton & Hove Albion,15/06/1991,181 cm,MF,
+579,579,Raúl Jiménez,Wolverhampton Wanderers,05/05/1991,190 cm,FW,
+580,580,Adam Smith,AFC Bournemouth,29/04/1991,180 cm,DF,England
+581,581,Steve Cook,Nottingham Forest,19/04/1991,185 cm,DF,England
+582,582,Stuart Dallas,Leeds United,19/04/1991,183 cm,DF,Northern Ireland
+583,583,Thiago,Liverpool FC,11/04/1991,174 cm,MF,Brazil
+584,584,Luka Milivojević,Crystal Palace,07/04/1991,186 cm,MF,
+585,585,Nathaniel Clyne,Crystal Palace,05/04/1991,175 cm,DF,England
+586,586,N'Golo Kanté,Chelsea FC,29/03/1991,171 cm,MF,
+587,587,Rodrigo,Leeds United,06/03/1991,182 cm,FW,Brazil
+588,588,Riyad Mahrez,Manchester City,21/02/1991,179 cm,FW,Algeria
+589,589,Pontus Jansson,Brentford FC,13/02/1991,194 cm,DF,Sweden
+590,590,Willy Boly,Nottingham Forest,03/02/1991,195 cm,DF,Ivory Coast
+591,591,Tom Cairney,Fulham FC,20/01/1991,185 cm,MF,England
+592,592,Danny Welbeck,Brighton & Hove Albion,26/11/1990,185 cm,FW,England
+593,593,De Gea,Manchester United,07/11/1990,189 cm,GK,Spain
+594,594,İlkay Gündoğan,Manchester City,24/10/1990,180 cm,MF,
+595,595,Kieran Trippier,Newcastle United,19/09/1990,173 cm,DF,England
+596,596,Jason Steele,Brighton & Hove Albion,18/08/1990,188 cm,GK,England
+597,597,Jordan Henderson,Liverpool FC,17/06/1990,187 cm,MF,England
+598,598,Joel,Leeds United,17/06/1990,197 cm,GK,Spain
+599,599,Kyle Walker,Manchester City,28/05/1990,183 cm,DF,England
+600,600,Craig Dawson,Wolverhampton Wanderers,06/05/1990,188 cm,DF,England
+601,601,Zanka,Brentford FC,23/04/1990,191 cm,DF,Denmark
+602,602,Lyle Taylor,Nottingham Forest,29/03/1990,188 cm,FW,Montserrat
+603,603,Michail Antonio,West Ham United,28/03/1990,180 cm,FW,Jamaica
+604,604,Alex Smithies,Leicester City,05/03/1990,185 cm,GK,England
+605,605,Robin Olsen,Aston Villa,08/01/1990,196 cm,GK,Sweden
+606,606,Harry Arter,Nottingham Forest,28/12/1989,177 cm,MF,Ireland
+607,607,Cheikhou Kouyaté,Nottingham Forest,21/12/1989,189 cm,MF,Senegal
+608,608,André Ayew,Nottingham Forest,17/12/1989,176 cm,FW,Ghana
+609,609,Aaron Cresswell,West Ham United,15/12/1989,170 cm,DF,England
+610,610,Alex McCarthy,Southampton FC,03/12/1989,193 cm,GK,England
+611,611,Junior Stanislas,AFC Bournemouth,26/11/1989,183 cm,MF,England
+612,612,Joel Ward,Crystal Palace,29/10/1989,186 cm,DF,England
+613,613,Jack Colback,Nottingham Forest,24/10/1989,177 cm,MF,England
+614,614,Idrissa Gueye,Everton FC,26/09/1989,174 cm,MF,Senegal
+615,615,Ben Mee,Brentford FC,21/09/1989,180 cm,DF,England
+616,616,Matt Ritchie,Newcastle United,10/09/1989,173 cm,DF,Scotland
+617,617,Azpilicueta,Chelsea FC,28/08/1989,178 cm,DF,Spain
+618,618,Ryan Bertrand,Leicester City,05/08/1989,179 cm,DF,England
+619,619,Neto,AFC Bournemouth,19/07/1989,190 cm,GK,Brazil
+620,620,Pierre-Emerick Aubameyang,Chelsea FC,18/06/1989,186 cm,FW,Gabon
+621,621,Felipe Monteiro,Nottingham Forest,16/05/1989,190 cm,DF,Brazil
+622,622,James Tomkins,Crystal Palace,29/03/1989,192 cm,DF,England
+623,623,Theo Walcott,Southampton FC,16/03/1989,175 cm,FW,England
+624,624,Ivan Perišić,Tottenham Hotspur,02/02/1989,186 cm,MF,
+625,625,Martin Dúbravka,Newcastle United,15/01/1989,191 cm,GK,
+626,626,Séamus Coleman,Everton FC,11/10/1988,177 cm,DF,Ireland
+627,627,Diego Costa,Wolverhampton Wanderers,07/10/1988,186 cm,FW,Spain
+628,628,Willian,Fulham FC,09/08/1988,175 cm,FW,Brazil
+629,629,Angelo Ogbonna,West Ham United,23/05/1988,191 cm,DF,Italy
+630,630,Adam Lallana,Brighton & Hove Albion,10/05/1988,172 cm,MF,England
+631,631,Fraser Forster,Tottenham Hotspur,17/03/1988,201 cm,GK,England
+632,632,Jonny Evans,Leicester City,03/01/1988,188 cm,DF,Northern Ireland
+633,633,James McArthur,Crystal Palace,07/10/1987,178 cm,MF,Scotland
+634,634,Tim Ream,Fulham FC,05/10/1987,186 cm,DF,USA
+635,635,Asmir Begović,Everton FC,20/06/1987,199 cm,GK,
+636,636,Darren Randolph,AFC Bournemouth,12/05/1987,188 cm,GK,Ireland
+637,637,Wayne Hennessey,Nottingham Forest,24/01/1987,198 cm,GK,Wales
+638,638,Jamie Vardy,Leicester City,11/01/1987,179 cm,FW,England
+639,639,Guaita,Crystal Palace,10/01/1987,190 cm,GK,Spain
+640,640,Adrián,Liverpool FC,03/01/1987,190 cm,GK,
+641,641,Hugo Lloris,Tottenham Hotspur,26/12/1986,188 cm,GK,France
+642,642,Keylor Navas,Nottingham Forest,15/12/1986,185 cm,GK,Costa Rica
+643,643,João Moutinho,Wolverhampton Wanderers,08/09/1986,170 cm,MF,
+644,644,Tom Heaton,Manchester United,15/04/1986,188 cm,GK,England
+645,645,James Milner,Liverpool FC,04/01/1986,175 cm,MF,England
+646,646,Scott Carson,Manchester City,03/09/1985,188 cm,GK,England
+647,647,Ashley Young,Aston Villa,09/07/1985,175 cm,DF,England
+648,648,Łukasz Fabiański,West Ham United,18/04/1985,190 cm,GK,
+649,649,Thiago Silva,Chelsea FC,22/09/1984,181 cm,DF,Brazil
+650,650,Andy Lonergan,Everton FC,19/10/1983,193 cm,GK,England
+651,651,Willy Caballero,Southampton FC,28/09/1981,186 cm,GK,Argentina
